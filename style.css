@@ -1,0 +1,14 @@
+.bg-home{
+    background-image: url(https://ik.imagekit.io/Mylab/sea-ocean?updatedAt=1734864083198);
+    height:600px;
+    width: 300px;
+    background-size: cover;
+}
+
+.bg-Place{
+    background-image: url(https://ik.imagekit.io/Mylab/taj-mahal?updatedAt=1734864114943);
+    height: 450px;
+    width: 300px;
+    background-image: no-repeat ;
+    background-size: contain;
+}
